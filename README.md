@@ -1,3 +1,1 @@
-# Miraj-Humanoid_Robot_Servo_Framework
-
-https://youtu.be/N16pcUi-QFo
+Watch Video: https://youtu.be/N16pcUi-QFo
